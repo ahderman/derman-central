@@ -1,0 +1,11 @@
+{
+  "anecdoteId": 1,
+  "version": 1,
+  "title": "Alessandro e lo scoppio del carro",
+  "text": "È nella piazza del Duomo che Alessandro ha assistito a Pasqua allo \"scoppio del carro\", con nonno, nonna, mamma,  Dino Puccioni ed io, arrivando in Duomo tra due ali di folla davanti ai gonfaloni fino all'altare, facendo finta di niente come fossimo delle vere autorità cittadine. Ma era piccolo e non se lo ricorda.",
+  "author": {
+    "userId": 1,
+    "name": "Luciano"
+  },
+  "createdAt": "2023-07-27T14:36:05.928Z"
+}

@@ -1,0 +1,11 @@
+{
+  "anecdoteId": 2,
+  "version": 1,
+  "title": "Silvio e la tomba dei Medici",
+  "text": "Quando Silvio era piccolo fece ridere nonno Beppe, che lo aveva portato a vedere la cappella medicea, dicendo \"Nonno, da grande voglio fare il medico, così avrò anch'io una tomba così\".\nNon è molto diverso da Alessandro piccolo che mi disse, in italiano, \"oggi a scuola abbiamo scritto con l'ancora\"",
+  "author": {
+    "userId": 1,
+    "name": "Luciano"
+  },
+  "createdAt": "2023-07-27T14:37:28.229Z"
+}
